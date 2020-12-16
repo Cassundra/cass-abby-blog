@@ -12,7 +12,7 @@ Abby and Cassie met at their workplace 2 and a half years ago. They both have si
 
 ### Cassie
 
-![Cassie] (cass-abby-blog/docs/images/cassie-headshot.jpg) 
+![Cassie](images/cassie-headshot.jpg)
 
 Hey, I’m Cassie! Currently a first year student at Durham College in the Interactive Media program furthering my knowledge in design and technology after obtaining an Advanced Diploma in Graphic Design. Growing up in a small southern Canadian village outside of Toronto I’ve always been fascinated by the power media has of connecting people from all around the world. Exploring this interest I’ve developed a multitude of skills in design, coding, photography, and editing. I hope to push these passions further by welcoming any creative projects that come my way. 
 
