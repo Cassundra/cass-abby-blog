@@ -18,7 +18,7 @@ Hey, I’m Cassie! Currently a first year student at Durham College in the Inter
 
 ### Abby
 
-![Abby](images/abbypicture.jpg)
+![Abby](images/abbypicture.jpeg)
 
 Hi I'm Abby! Presently, I am in first year for Interactive Media Design. I acquired a diploma in Animation at Durham College in 2019 and wanted to have a broader depth in the media field. At first wanting to be a nurse, I gravitated towards the arts in the end of my Grade 12 year. Already accepted into a nursing program, I decided to dedicate my life to my love of art, and decided to take a leap of faith and join the Animation program instead. Currently, I do not see a future in any other field. 
 
